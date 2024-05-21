@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BI_Jogja_Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1627603fb94fecf49ec53ee061c4f42a2e90d5d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BI_Jogja_Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BI_Jogja_Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

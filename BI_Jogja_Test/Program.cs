@@ -11,6 +11,7 @@
             Solutions.Case2A(n2);
             Solutions.Case2B(n2);
             Solutions.Case2C(n2);
+            Solutions.Case2D(n2);
 
             int[] n = [12, 9, 13, 6, 10, 4, 7, 2];
             Solutions.Case3(n);
