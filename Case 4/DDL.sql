@@ -1,0 +1,30 @@
+USE bi_jogja_db;
+
+DROP TABLE IF EXISTS transaksi;
+DROP TABLE IF EXISTS barang;
+DROP TABLE IF EXISTS pelanggan;
+
+CREATE TABLE pelanggan
+(
+KODE varchar(11) PRIMARY KEY,
+NAMA varchar(255),
+ALAMAT varchar(255)
+);
+
+CREATE TABLE barang
+(
+KODE varchar(255) PRIMARY KEY,
+NAMA varchar(255),
+HARGA double(255,0)
+);
+
+CREATE TABLE transaksi
+(
+KODE varchar(255) PRIMARY KEY,
+TANGGAL date,
+KODE_PELANGGAN varchar(255),
+KODE_BARANG varchar(255),
+JUMLAH_BARANG double(255,0),
+FOREIGN KEY (KODE_PELANGGAN) REFERENCES pelanggan(KODE),
+FOREIGN KEY (KODE_BARANG) REFERENCES barang(KODE)
+);

@@ -1,0 +1,14 @@
+d:\Code\NET\BI_Jogja\BI_Jogja_Test\bin\Debug\net8.0\BI_Jogja_Test.exe
+d:\Code\NET\BI_Jogja\BI_Jogja_Test\bin\Debug\net8.0\BI_Jogja_Test.deps.json
+d:\Code\NET\BI_Jogja\BI_Jogja_Test\bin\Debug\net8.0\BI_Jogja_Test.runtimeconfig.json
+d:\Code\NET\BI_Jogja\BI_Jogja_Test\bin\Debug\net8.0\BI_Jogja_Test.dll
+d:\Code\NET\BI_Jogja\BI_Jogja_Test\bin\Debug\net8.0\BI_Jogja_Test.pdb
+d:\Code\NET\BI_Jogja\BI_Jogja_Test\obj\Debug\net8.0\BI_Jogja_Test.GeneratedMSBuildEditorConfig.editorconfig
+d:\Code\NET\BI_Jogja\BI_Jogja_Test\obj\Debug\net8.0\BI_Jogja_Test.AssemblyInfoInputs.cache
+d:\Code\NET\BI_Jogja\BI_Jogja_Test\obj\Debug\net8.0\BI_Jogja_Test.AssemblyInfo.cs
+d:\Code\NET\BI_Jogja\BI_Jogja_Test\obj\Debug\net8.0\BI_Jogja_Test.csproj.CoreCompileInputs.cache
+d:\Code\NET\BI_Jogja\BI_Jogja_Test\obj\Debug\net8.0\BI_Jogja_Test.dll
+d:\Code\NET\BI_Jogja\BI_Jogja_Test\obj\Debug\net8.0\refint\BI_Jogja_Test.dll
+d:\Code\NET\BI_Jogja\BI_Jogja_Test\obj\Debug\net8.0\BI_Jogja_Test.pdb
+d:\Code\NET\BI_Jogja\BI_Jogja_Test\obj\Debug\net8.0\BI_Jogja_Test.genruntimeconfig.cache
+d:\Code\NET\BI_Jogja\BI_Jogja_Test\obj\Debug\net8.0\ref\BI_Jogja_Test.dll
